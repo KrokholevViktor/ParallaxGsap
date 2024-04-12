@@ -42,7 +42,7 @@ body {
     z-index: 100;
     height: calc(var(--index) * 10);
     bottom: calc(var(--index) * -4.5);
-    background-image: url(../img/ground.png);
+    background-image: url(../img/ground.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
