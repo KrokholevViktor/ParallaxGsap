@@ -4,6 +4,4 @@
 
 [ParallaxGsap - demo](https://krokholevviktor.github.io/ParallaxGsap/)
 
-# test
-
 ![Текст описания](docs/img/parallaxPreview.jpg)
